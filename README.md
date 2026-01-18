@@ -5,10 +5,10 @@
   <a href="https://surajbhanarkar.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/suraj-bhanarkar-24359b210/" target="_blank">
+  <a href="https://linkedin.com/in/ssb-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/HeyySuraj/" target="_blank">
+  <a href="https://leetcode.com/u/dr-blue-cyber/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://www.codechef.com/users/suraj_162" target="_blank">
