@@ -73,15 +73,29 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HeyySuraj&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=HeyySuraj&show_icons=true&theme=github_dark&hide_border=true"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HeyySuraj&theme=github-dark&hide_border=true"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyySuraj&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/HeyySuraj/HeyySuraj/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HeyySuraj&theme=github-compact" />
 </p>
 
 ---
