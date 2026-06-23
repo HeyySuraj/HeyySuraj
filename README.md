@@ -26,7 +26,7 @@
 
 ## 🚀 About Me
 
-- 💻 Software Engineer with **2.5+ years of Full Stack (MERN) experience**
+- 💻 Software Engineer with **3+ years of Full Stack (MERN) experience**
 - 🧠 Strong foundation in **DSA, OOPs, DBMS, OS, CN**
 - ⚙️ Backend-focused engineer building **scalable, production-grade systems**
 - 🏆 Top **25% on LeetCode**, **3⭐ CodeChef**
