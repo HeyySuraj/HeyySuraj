@@ -90,9 +90,8 @@
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HeyySuraj&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HeyySuraj&theme=react&hide_border=true" alt="Suraj's GitHub Activity Graph" />
 </p>
-
 ---
 
 ⭐ *Check out my portfolio for detailed projects & case studies:*  
